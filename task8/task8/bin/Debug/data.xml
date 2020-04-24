@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Koms>
+  <Kom Number_of_house="100" Number_of_flat="100" Last_name="A" Type="e" Data="2020-07-20T00:00:00" Sum="1200" Prochent="0.1" Pr="0" />
+  <Kom Number_of_house="101" Number_of_flat="101" Last_name="A" Type="e" Data="2020-07-20T00:00:00" Sum="1200" Prochent="0.1" Pr="0" />
+  <Kom Number_of_house="102" Number_of_flat="102" Last_name="B" Type="g" Data="2020-06-19T00:00:00" Sum="1100" Prochent="0.12" Pr="3" />
+  <Kom Number_of_house="11" Number_of_flat="11" Last_name="F" Type="r" Data="2020-07-20T00:00:00" Sum="17" Prochent="2" Pr="1" />
+  <Kom Number_of_house="11" Number_of_flat="11" Last_name="F" Type="r" Data="2020-07-20T00:00:00" Sum="17" Prochent="2" Pr="1" />
+  <Kom Number_of_house="11" Number_of_flat="11" Last_name="F" Type="r" Data="2020-07-20T00:00:00" Sum="17" Prochent="2" Pr="1" />
+  <Kom Number_of_house="11" Number_of_flat="11" Last_name="F" Type="r" Data="2020-07-20T00:00:00" Sum="17" Prochent="2" Pr="1" />
+  <Kom Number_of_house="11" Number_of_flat="11" Last_name="F" Type="r" Data="2020-07-20T00:00:00" Sum="17" Prochent="2" Pr="1" />
+</Koms>
